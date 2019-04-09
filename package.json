@@ -1,0 +1,30 @@
+{
+  "name": "f-pay",
+  "version": "1.0.0",
+  "description": "It is an application that eases payment services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhiljain26845/fPay.git"
+  },
+  "author": "Akhil,Aditya,Akanksha,Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhiljain26845/fPay/issues"
+  },
+  "homepage": "https://github.com/akhiljain26845/fPay#readme",
+  "dependencies": {
+    "Express": "^3.0.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "localtunnel": "^1.9.1",
+    "nodemon": "^1.18.10",
+    "pg": "^7.9.0",
+    "pg-hstore": "^2.3.2",
+    "request": "^2.88.0",
+    "sequelize": "^5.2.9"
+  }
+}
